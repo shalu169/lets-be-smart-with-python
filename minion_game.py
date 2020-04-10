@@ -35,7 +35,7 @@ If the game is a draw, print Draw.
 '''
 
 from itertools import combinations
-test_str = "BANANA"
+test_str = input()
 
 # printing original string
 print("The original string is : " + str(test_str))
